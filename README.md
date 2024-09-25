@@ -6,7 +6,7 @@ Perform network scans using Nmap and Zenmap on the 10.168.27.0/24 network block 
 Monitor network traffic by analyzing packet capture (PCAP) files using Wireshark. Choose a PCAP file from the "Pcap Files" folder on the Kali Machine and examine it to detect anomalies such as ARP spoofing, HTTP, and TCP traffic patterns.
 
 ## Network Topology:
-The network topology is a hybrid topology. This topology draws characteristics of the star, mesh and ring topologies and are best suited for a particular network. In this diagram, direct links with additional links to a unique node imply a blend of the star and mesh network making it a blend of the said network. I also used nmap -sn 10.168.27.0/24 and found that there were 6 hosts on the network.
+The network topology is a hybrid topology. This topology draws characteristics of the star, mesh and ring topologies and are best suited for a particular network. In this diagram, direct links with additional links to a unique node imply a blend of the star and mesh network making it a blend of the said network. I also used `nmap -sn 10.168.27.0/24` and found that there were 6 hosts on the network.
 ![nmapandwireshark1](https://github.com/user-attachments/assets/12ad440a-3f99-448a-a34f-eeb3ce3dfbe2)
 ![nmapandwireshark2](https://github.com/user-attachments/assets/9465fc5c-57b7-494f-b10d-ecfc4b1098b1)
 
