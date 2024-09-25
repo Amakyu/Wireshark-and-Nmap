@@ -1,4 +1,4 @@
-# Wireshark-and-Nmap
+# Wireshark and Nmap
 
 ## Objective
 Perform network scans using Nmap and Zenmap on the 10.168.27.0/24 network block to identify active hosts, open ports, and vulnerabilities. Access the Kali Machine, run the scans, and analyze the results.
